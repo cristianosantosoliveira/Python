@@ -1,0 +1,16 @@
+"""
+Variaveis
+"""
+
+nome = 'Cristiano Oliveira'
+idade = 30
+altura = 1.80
+e_maior = 18
+peso = 80
+imc = peso/altura **2
+
+print('Nome: ', nome)
+print('Idade: ', idade)
+print('Altura: ', altura)
+print('E maior: ', e_maior)
+print('IMC', imc)
